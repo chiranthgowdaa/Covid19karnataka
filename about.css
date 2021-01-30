@@ -1,0 +1,73 @@
+.about
+{
+    width:100%;
+    height:fit-content;
+    text-align:center;
+    margin-top: 50px;
+}
+
+.teams
+{
+    font-family: 'IBM Plex Sans', sans-serif;
+    color:rgb(68, 68, 68);
+    font-size: large;
+    margin-bottom: 25px;
+}
+
+.meet
+{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+    font-weight: 800;
+    color:black;
+}
+
+.team
+{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+    font-weight: 800;
+    color:rgb(58, 84, 204);
+}
+
+
+.allimage
+{
+
+    width:60%;
+    margin: auto;
+    height:fit-content;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.p1
+{
+   display: inline-block;
+  
+}
+
+.imgsrc
+{
+    height:180px;
+    width:180px;
+    margin-bottom: 10px;
+    border-radius:50%;
+}
+
+
+
+.name
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:larger;
+    font-weight: 600;
+}
+
+.college
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:small;
+    font-weight: 600;
+}
